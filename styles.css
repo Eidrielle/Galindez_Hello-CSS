@@ -1,0 +1,20 @@
+Style.css
+body{
+    background-color: red;
+}
+h1{
+    color: #51ff00;
+    font-family: Helvetica, Arial, sans-serif;
+}
+p{
+    color:rgb(0, 238, 255);
+    font-family: Helvetica, Arial, sans-serif;
+}
+h2{
+    color:#ff0095;
+    font-family: Helvetica, Arial, sans-serif;
+}
+li,ol{
+    color:blue;
+    font-family: Helvetica, Arial, sans-serif;
+}
